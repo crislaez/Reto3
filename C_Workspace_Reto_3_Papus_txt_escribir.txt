@@ -1,0 +1,10 @@
+Codigo del Billete: null---
+Trayecto: null---
+Codigo de la linea: null---
+Codigo del bus: null---
+Codigo de la parada de inicio: null---
+Codigo de la parada final: null---
+Fecha: null---
+Hora: null---
+DNI: null---
+Precio: null

@@ -1,0 +1,7 @@
+Billete
+-----------
+Fecha: 2019-3-15
+DNI: 12345678C
+Codigo de la linea: L1
+Codigo de la parada de inicio: 1
+Codigo de la parada final: 5

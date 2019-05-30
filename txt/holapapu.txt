@@ -1,0 +1,2 @@
+jdbc:mysql://localhost:3306/termibus?serverTimezone=UTC;root;098767890;
+
